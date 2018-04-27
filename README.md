@@ -1,6 +1,4 @@
 # Lynding.github.io
-
-<a href="https://Lynding.github.io/Practica1.html">practica1</a>
 <a href="https://Lynding.github.io/Practica2.html">practica1</a><br>
 <a href="https://Lynding.github.io/Practica3.html">practica1</a><br>
 <a href="https://Lynding.github.io/Practica4.html">practica1</a><br>
